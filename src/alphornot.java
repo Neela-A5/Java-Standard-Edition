@@ -38,17 +38,6 @@ public class alphornot {
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
     }
 }
 
