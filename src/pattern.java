@@ -1,8 +1,8 @@
 public class pattern {
     public static void main(String[] args) {
-pattern(3);
+patern(3);
     }
-    static void pattern (int n){
+    static void patern (int n){
         for(int row=1; row<=n;row++){
             for(int  col=1;col<=row; col++){
                 System.out.print("*");
