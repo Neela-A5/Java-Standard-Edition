@@ -16,7 +16,7 @@ public class prg {     // Example for method overloading in java
      addition.add(5.2, 4);
      addition.add(2, 3,2);
     }
-    class addition {
+    public static class addition {
         public static void add(int a, int b) {
             System.out.println("sum = " + (a + b));
         }
