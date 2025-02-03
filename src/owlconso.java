@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class owlconso {
     public static void main(String[] args) {
         System.out.println(" give any alphabet for searching vowel or consonant ");
@@ -24,8 +23,9 @@ public class owlconso {
      }
 
     //  finding the alphabet  is vowel or consonant using if  statement
-        System.out.println();
-        char chr = 'o';
+       // System.out.println();
+        System.out.println("give any alphabet for searching vowel or consonant");
+        char chr = sc.next().charAt(0);
      if(chr =='a' || chr =='e' || chr =='i' || chr =='o' || chr =='u' || chr =='A' || chr =='E' || chr =='I' ||  chr =='O' ||  chr =='U'  ){
          System.out.println(" this is an vowel ");
      }
