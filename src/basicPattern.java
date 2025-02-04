@@ -6,6 +6,7 @@ public class basicPattern {
                 System.out.print("*");
             }
             System.out.println();
+            System.out.println();
         }
         System.out.println();
         System.out.println("printing 4 rows and 4 columns using Numbers.");
